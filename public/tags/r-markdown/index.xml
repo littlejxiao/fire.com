@@ -6,10 +6,19 @@
     <description>Recent content in R Markdown on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>fire</title>
+      <link>/2019/05/15/fire/</link>
+      <pubDate>Wed, 15 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/05/15/fire/</guid>
+      <description>today we studied how to use r to get data from web, and make some simple handling. It is very intersting and helpful.hi</description>
+    </item>
     
     <item>
       <title>Hello RR Markdown</title>

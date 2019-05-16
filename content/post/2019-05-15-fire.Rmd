@@ -8,4 +8,4 @@ categories:
 tags:
   - R Markdown
 ---
-today we studied how to use r to get data from web, and make some simple handling. It is very intersting and helpful.
+today we studied how to use r to get data from web, and make some simple handling. It is very intersting and helpful.hi
